@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900242715503",
+    "project_id": "flash-chat-5f743",
+    "storage_bucket": "flash-chat-5f743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900242715503:android:0104d2f22858c7c78eae9a",
+        "android_client_info": {
+          "package_name": "com.Vibhav.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900242715503-kit5kus21aaos16lqufsgelf1iss7btf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqOAnUzaRDCjOLHSGH0h8FeFE06FjOLdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900242715503-kit5kus21aaos16lqufsgelf1iss7btf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
